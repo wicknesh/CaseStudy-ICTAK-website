@@ -53,6 +53,7 @@ a:hover{
 
 .text-grp h4{
     padding-left: 1%;
+    font-weight: 700;
 }
 
 form{
@@ -92,16 +93,15 @@ form #btn1{
 }
 
 .container {
-    margin-top: 450px;
+    margin-top: 750px;
 }
 
 .container .boxp {
     background-color: rgb(228, 228, 202);
     width: 10%;
     float: left;
-    margin-top: 10%;
     margin-left: 5%;
-    padding: 2%;
+    padding: 2% 2% 2% 2%;
     border: 5px solid white;
 }
 
